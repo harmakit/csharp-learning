@@ -1,0 +1,11 @@
+//symbols 's', 'd' and 't' indicate the type of the array
+//'s' - square, 'd' - diagonal, 't' - triangle
+//good input'd be like:
+
+756
+822
+067s
+41325d
+123456t
+1234567891t
+22d
