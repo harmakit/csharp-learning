@@ -1,6 +1,6 @@
 problem description:
 
-+square matrix with integer elements
++some matter with specific coding
 +reading and writing files
-+doubly linked list
-+selection sort by "dimension"
++linked list
++selection sort by "molar mass"
